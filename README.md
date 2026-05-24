@@ -1,6 +1,6 @@
                                                        **Project 4 - Multimedia Embedded Memory Encapsulation File System**
 
-                                              Contact Name : Satya Thakur, Student Id : UW61778, Email address : UW61778@UMBC.EDU
+                                                                        Contact Name : Satya Thakur
 
 **Overview**: This project implements a custom filesystem called MEMEFS (Multimedia Embedded Memory Encapsulation Filesystem) using FUSE (Filesystem in Userspace). The implementation includes:
   -A read-only filesystem (Part 1)
